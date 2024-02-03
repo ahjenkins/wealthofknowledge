@@ -1,5 +1,5 @@
 # Wealth of Knowledge
-**Free resources for enhancing your technology career.**
+**Free learning resources for enhancing your technology career.**
 
 ---------------------------------------------------------
 
@@ -10,11 +10,19 @@
     + **[Hugging Face — NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)**: Tutorials and documentation on using transformers, fine-tuning pre-trained models, tokenizers, NLP tasks, the datasets library, and more.
     + **[Microsoft — Training for AI engineers](https://learn.microsoft.com/en-us/training/career-paths/ai-engineer)**: Learning modules that expose you to the tools and develop your skills with Azure AI Services.
 
+* General Overview
+    + **[Google's AI Course for Beginners in 10 minutes (YouTube video)](https://www.youtube.com/watch?v=Yq0QkCxoTHM&ab_channel=JeffSu)**: Clear and easily digestible explanation and visualization of AI, machine learning, deep learning, generative AI, and large language models.
+
 * Generative AI
     + **[IBM — AI Fundamentals (YouTube playlist)](https://www.youtube.com/watch?v=8lo1s29ODj8&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF&ab_channel=IBMTechnology)**: Medium-length YouTube lessons explaining and illustrating AI concepts such as generative AI models, large langauge models (LLMs), machine learning, chatbots, and more.
+    + **[IBM — Large Language Models and Chatbots (YouTube playlist)](https://www.youtube.com/watch?v=5sLYAQS9sWQ&list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c&ab_channel=IBMTechnology)**: Medium-length YouTube lessons explaining and illustrating large language models, prompt tuning, open-source models, chatbots, and more.
     + **[IBM — Understanding AI Models (YouTube playlist)](https://www.youtube.com/watch?v=8lo1s29ODj8&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF&ab_channel=IBMTechnology)**: Medium-length YouTube lessons explaining and illustrating large language models, neural networks, natural language processing, supervised and unsupervised learning,, and more.
     + **[Microsoft — Generative AI for Beginners (GitHub repo)](https://microsoft.github.io/generative-ai-for-beginners/#/)**: Learn the fundamentals of building Generative AI applications including prompt engineering, text and chat applications, search apps with vector databases, image generation applications, low-code AI applications, and more.
     + **[Roadmap to Learn Generative AI in 2024 (GitHub repo)](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)**: Build a technical foundation in Python, natural language processing (NLP), deep learning concepts, large language models (LLMs), vector databases, and more.
+ 
+* Vector Databases & Retrieval Augmented Generation (RAG)
+    + **[Building Applications with Vector Databases (DeepLearning.AI short course)](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/?utm_medium=email&_hsmi=292205819&_hsenc=p2ANqtz-8Ehc43qo9yx-QEYTw_uhtOsvbWsM7iwacNtNkw29DChN0zkcqFanP2hVz13C1KniZ32_JdasuFIdmiihF50IWAGAzMt4S320N4avBEGOsGinFdCzs&utm_content=292205819)**: Explore the implementation of six applications using vector databases including semantic search, retrieval augmented generation (RAG), hybrid search, facial similarity, anomaly detection, and more (free for a limited time).
+    + **[The 5 Levels of Text Splitting for Retrieval (YouTube video)](https://www.youtube.com/watch?v=8OJC21T2SL4&ab_channel=GregKamradt%28DataIndy%29)**: Thorogh explanations of character splitting, recursive character splitting, document specific splitting, semantic splitting, and agentic splitting.
 
 
 ## Full-Stack Web Development

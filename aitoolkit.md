@@ -1,5 +1,5 @@
 # AI Toolkit
-**Tools and frameworks for building AI applications.**
+**Tools, frameworks, and other resources for building AI applications.**
 
 ---------------------------------------------------------
 
@@ -55,3 +55,7 @@
     +   [LangServe](https://github.com/langchain-ai/langserve): Helps developers deploy LangCahin runnables and chains as a REST API.
     +   [LangSmith (currently in private beta)](https://docs.smith.langchain.com/): Debug, test, evaluate, and monitor chains and intelligent agents.
 + **[LlamaIndex (open-source)](https://www.llamaindex.ai/)**: A simple, flexible data framework for connecting custom data sources to large language models.
+
+
+## Other Resources
++ **[Prompt Engineering Guide](https://www.promptingguide.ai/)**: An introduction to prompt engineering and various techniques for prompting.

@@ -44,6 +44,7 @@
 
 
 ## Frameworks
++ **[AI.JSX (open-source)](https://www.fixie.ai/docs)**: Build AI-powered applications in JavaScript and JSX that can be deployed anywhere Node.js is supported.
 + **[LangChain (open-source)](https://python.langchain.com/docs/get_started/introduction)**: Develop applications powered by language models.
     +   LangChain libraries: [Python](https://python.langchain.com/docs/get_started/installation) and [JavaScript](https://js.langchain.com/docs/get_started/introduction)
     +   LangChain [templates](https://python.langchain.com/docs/templates): popular templates include Retrieval Augmented Generation Chatbot, Extraction with OpenAI Functions, Local Retrieval Augmented Generation, OpenAI Functions Agent, and XML Agent.

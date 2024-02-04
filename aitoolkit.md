@@ -16,6 +16,10 @@
         + **[Amazon Rekognition](https://aws.amazon.com/rekognition/?c=ml&sec=srv)**: Automate and lower the cost of your image recognition and video analysis with machine learning.
         + **[Amazon Textract](https://aws.amazon.com/textract/?c=ml&sec=srv)**: Automatically extract printed text, handwriting, layout elements, and data from any document.
 
+* Google
+    + **[Gemini API (documentation)](https://ai.google.dev/docs/gemini_api_overview)**: Access to the latest generative models from Google.
+    + **[Google AI Studio (documentation)](https://ai.google.dev/tutorials/ai-studio_quickstart)**: A browser-based IDE for prototyping with generative models.
+
 * Microsoft
     + **[Azure AI Services (documentation)](https://learn.microsoft.com/en-us/azure/ai-services/)**: Pre-built and customizable APIs and models for applications with natural language processing capabilities including conversations, search, monitoring, translation, speech, vision, and decision-making.
       +   **[Azure AI Search](https://learn.microsoft.com/en-us/azure/search/)** (formerly Azure Cognitive Search): Information retrieval at scale for vector and text content in traditional or generative search scenarios.

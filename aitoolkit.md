@@ -3,7 +3,7 @@
 
 ---------------------------------------------------------
 
-## From Industry Leaders
+## Tools from Industry Leaders
 * AWS
     + **[Amazon Bedrock](https://aws.amazon.com/bedrock/)**: Build and scale generative AI applications with foundation models.
     + **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)**: AI-powered productivity tool for the IDE and command line.
@@ -27,7 +27,18 @@
       +   [Speech](https://learn.microsoft.com/en-us/azure/ai-services/language-service/): Recognize speech, synthesize speech, get real-time translations, transcribe conversations, or integrate speech into your bot experiences.
       +   [Translator](https://learn.microsoft.com/en-us/azure/ai-services/translator/): Translate text and documents with a simple REST API call.
       +   [Vision](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/): Access to advanced algorithms for processing images and returning information.
-      
     + **[Azure Machine Learning (documentation)](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2)**: Train and deploy models and manage the ML lifecycle (MLOps).
     + **[Microsoft Copilot for Microsoft 365 (documentation)](https://learn.microsoft.com/en-us/microsoft-365-copilot/)**: AI-powered productivity tool that coordinates large language models (LLMs), content in Microsoft Graph, and the Microsoft 365 apps.
     + **[Teams AI Library (documentation)](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview)**: Provides a simple capabilities-driven approach and helps you to create intelligent apps quickly and easily with prebuilt, reusable code snippets so that you can focus on building the business logic rather than learning the semantics of Teams conversational applications.
+
+* Vector Databases
+    + **[Pinecone (documentation)](https://docs.pinecone.io/docs/overview)**: A managed, cloud-native vector database with a simple API and no infrastructure hassels.
+
+
+## Frameworks
++ **[LangChain (open-source)](https://python.langchain.com/docs/get_started/introduction)**: Develop applications powered by language models.
+    +   LangChain libraries: [Python](https://python.langchain.com/docs/get_started/installation) and [JavaScript](https://js.langchain.com/docs/get_started/introduction)
+    +   LangChain [templates](https://python.langchain.com/docs/templates): popular templates include Retrieval Augmented Generation Chatbot, Extraction with OpenAI Functions, Local Retrieval Augmented Generation, OpenAI Functions Agent, and XML Agent.
+    +   [LangServe](https://github.com/langchain-ai/langserve): Helps developers deploy LangCahin runnables and chains as a REST API.
+    +   [LangSmith (currently in private beta)](https://docs.smith.langchain.com/): Debug, test, evaluate, and monitor chains and intelligent agents.
++ **[LlamaIndex (open-source)](https://www.llamaindex.ai/)**: A simple, flexible data framework for connecting custom data sources to large language models.

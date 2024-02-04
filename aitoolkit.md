@@ -5,8 +5,16 @@
 
 ## From Industry Leaders
 * AWS
+    + **[Amazon Bedrock](https://aws.amazon.com/bedrock/)**: Build and scale generative AI applications with foundation models.
+    + **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)**: AI-powered productivity tool for the IDE and command line.
+    + **[Amazon SageMaker](https://aws.amazon.com/sagemaker/)**: Build, train, and deploy machine learning models for any use case with fully managed infrastructure, tools, and workflows.
     + **[AWS AI Services](https://aws.amazon.com/machine-learning/ai-services/)**: Pre-trained AI Services to easily integrate with your applications to address common use cases such as personalized recommendations, modernizing your contact center, improving safety and security, and increasing custom engagement.
+        + **[Amazon Comprehend](https://aws.amazon.com/comprehend/?c=ml&sec=srv)**: Process text to extract key phrases, entities, and sentiment for further analysis.        
+        + **[Amazon Forecast](https://aws.amazon.com/forecast/?c=ml&sec=srv)**: Forecast business outcomes easily and accurately using machine learning.
+        + **[Amazon Kendra](https://aws.amazon.com/kendra/?c=ml&sec=srv)**: Find accurate information faster.
         + **[Amazon Lex](https://aws.amazon.com/lex/?c=ml&sec=srv)**: Build and deploy conversational AI interfaces.
+        + **[Amazon Rekognition](https://aws.amazon.com/rekognition/?c=ml&sec=srv)**: Automate and lower the cost of your image recognition and video analysis with machine learning.
+        + **[Amazon Textract](https://aws.amazon.com/textract/?c=ml&sec=srv)**: Automatically extract printed text, handwriting, layout elements, and data from any document.
 
 * Microsoft
     + **[Azure AI Services (documentation)](https://learn.microsoft.com/en-us/azure/ai-services/)**: Pre-built and customizable APIs and models for applications with natural language processing capabilities including conversations, search, monitoring, translation, speech, vision, and decision-making.

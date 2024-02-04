@@ -31,6 +31,11 @@
     + **[Microsoft Copilot for Microsoft 365 (documentation)](https://learn.microsoft.com/en-us/microsoft-365-copilot/)**: AI-powered productivity tool that coordinates large language models (LLMs), content in Microsoft Graph, and the Microsoft 365 apps.
     + **[Teams AI Library (documentation)](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview)**: Provides a simple capabilities-driven approach and helps you to create intelligent apps quickly and easily with prebuilt, reusable code snippets so that you can focus on building the business logic rather than learning the semantics of Teams conversational applications.
 
+* Robotic Process Automation (RPA)
+    + **[Automation Anywhere](https://www.automationanywhere.com/products/automation-ai)**: Create a system of work with a connected suite of intelligent automation apps and tools to discover, automate, scale, and engage.
+    + **[Microsoft — AI Builder](https://www.uipath.com/automation/ai-and-rpa)**: Automate processes and gain insights from your data using a pre-built or custom AI model for your needs in Power Apps and Power Automate.
+    + **[UiPath](https://www.uipath.com/automation/ai-and-rpa)**: Rapidly build AI-powered automation that seamlessly collaborates with people and systems to transform every facet of work.
+
 * Vector Databases
     + **[Chroma (open-source, documentation)](https://docs.trychroma.com/)**: Embedding database making it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs.
     + **[Pinecone (documentation)](https://docs.pinecone.io/docs/overview)**: A managed, cloud-native vector database with a simple API and no infrastructure hassels.

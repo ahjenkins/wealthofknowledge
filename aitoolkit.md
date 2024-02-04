@@ -4,6 +4,10 @@
 ---------------------------------------------------------
 
 ## From Industry Leaders
+* AWS
+    + **[AWS AI Services](https://aws.amazon.com/machine-learning/ai-services/)**: Pre-trained AI Services to easily integrate with your applications to address common use cases such as personalized recommendations, modernizing your contact center, improving safety and security, and increasing custom engagement.
+        + **[Amazon Lex](https://aws.amazon.com/lex/?c=ml&sec=srv)**: Build and deploy conversational AI interfaces.
+
 * Microsoft
     + **[Azure AI Services (documentation)](https://learn.microsoft.com/en-us/azure/ai-services/)**: Pre-built and customizable APIs and models for applications with natural language processing capabilities including conversations, search, monitoring, translation, speech, vision, and decision-making.
       +   **[Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/)**

@@ -32,7 +32,10 @@
     + **[Teams AI Library (documentation)](https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/teams%20conversational%20ai/teams-conversation-ai-overview)**: Provides a simple capabilities-driven approach and helps you to create intelligent apps quickly and easily with prebuilt, reusable code snippets so that you can focus on building the business logic rather than learning the semantics of Teams conversational applications.
 
 * Vector Databases
+    + **[Chroma (open-source, documentation)](https://docs.trychroma.com/)**: Embedding database making it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs.
     + **[Pinecone (documentation)](https://docs.pinecone.io/docs/overview)**: A managed, cloud-native vector database with a simple API and no infrastructure hassels.
+    + **[Qdrant (documentation)](https://qdrant.tech/documentation/)**: A vector similarity search engine with a convenient API to store, search, and manage vectors with an additional payload.
+    + **[Weaviate (open-source, documentation)](https://weaviate.io/developers/weaviate)**: Store and retrieve data objects and vector embeddings, seamlessly connect to your favorite ML models, and build intuitive and reliable AI applications that scale.
 
 
 ## Frameworks

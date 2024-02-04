@@ -1,5 +1,5 @@
 # AI Toolkit
-Tools and frameworks for building AI applications.
+**Tools and frameworks for building AI applications.**
 
 ---------------------------------------------------------
 

@@ -23,6 +23,9 @@
     + **[Gemini API (documentation)](https://ai.google.dev/docs/gemini_api_overview)**: Access to the latest generative models from Google.
     + **[Google AI Studio (documentation)](https://ai.google.dev/tutorials/ai-studio_quickstart)**: A browser-based IDE for prototyping with generative models.
 
+* Low-code/no-code
+    + **[Weave](https://weave.chasm.net/)**: A non-coder's solution to implementing AI in everyday tasks.
+    
 * Microsoft
     + **[Azure AI Services (documentation)](https://learn.microsoft.com/en-us/azure/ai-services/)**: Pre-built and customizable APIs and models for applications with natural language processing capabilities including conversations, search, monitoring, translation, speech, vision, and decision-making.
       +   **[Azure AI Search](https://learn.microsoft.com/en-us/azure/search/)** (formerly Azure Cognitive Search): Information retrieval at scale for vector and text content in traditional or generative search scenarios.

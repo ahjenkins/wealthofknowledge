@@ -23,6 +23,9 @@
     + **[Gemini API (documentation)](https://ai.google.dev/docs/gemini_api_overview)**: Access to the latest generative models from Google.
     + **[Google AI Studio (documentation)](https://ai.google.dev/tutorials/ai-studio_quickstart)**: A browser-based IDE for prototyping with generative models.
 
+* Large Language Models (LLMs)
+    + **[Ollama](https://ollama.ai/)**: Get up and running with large language models locally.
+ 
 * Low-code/no-code
     + **[Weave](https://weave.chasm.net/)**: A non-coder's solution to implementing AI in everyday tasks.
     

@@ -11,6 +11,8 @@
     + **[Microsoft — Training for AI engineers](https://learn.microsoft.com/en-us/training/career-paths/ai-engineer)**: Learning modules that expose you to the tools and develop your skills with Azure AI Services.
 
 * General Overview
+    + **[Introduction to AI (course)](https://course.elementsofai.com/)**: For everyone interested in learning what AI is, what is possible with AI, and how it affects our lives.
+    + **[Building AI (course)](https://buildingai.elementsofai.com/)**: For anyone who wants to learn about the practical methods that make artificial intelligence a reality such as machine learning and neural networks.
     + **[Google's AI Course for Beginners in 10 minutes (YouTube video)](https://www.youtube.com/watch?v=Yq0QkCxoTHM&ab_channel=JeffSu)**: Clear and easily digestible explanation and visualization of AI, machine learning, deep learning, generative AI, and large language models.
 
 * Generative AI

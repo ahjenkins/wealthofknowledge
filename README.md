@@ -30,6 +30,7 @@
 
 ## Full-Stack Web Development
 Designing, developing, testing, and deploying a complete web application
++ **[Bro Code — Programming Languages for Beginners (YouTube playlist)](https://www.youtube.com/@BroCodez/playlists)**: Short to medium-length tutorials that are easy to digest and organized into playlists for JavaScript, HTML & CSS, PHP, React, MongoDB, MySQL, C, C++, C#, Python, Java, and more.
 + **[Free Code Camp — Full Stack Web Development for Beginners](https://www.youtube.com/watch?v=nu_pCVPKzTk&ab_channel=freeCodeCamp.org)**: Learn the basics of HTML, CSS, and JavaScript, and create a full-stack web application using Node.js, Express, and MongoDB.
 + **[Harvard — CS50's Web Programming with Python and JavaScript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)**: Expands upon CS50 and dives more deeply into the design and implementation of web apps with Python, JavaScript, and SQl using frameworks like Django, React, and Bootstrap.
 + **[MDN Web Docs — Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)**: Tutorials and training materials to learn HTML, CSS, JavaScript, and more for all levels.

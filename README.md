@@ -4,7 +4,7 @@
 ---------------------------------------------------------
 
 ## Artificial Intelligence
-* From industry leaders
+* Courses from industry leaders
     + **[AWS — Learn AI](https://aws.amazon.com/machine-learning/learn/)**: Coursework and hands-on tutorials for various levels, learning styles, and paces including digital courses, webinars, tutorials, and workshops.
     + **[Google — Learn Gen AI](https://ai.google/build?featured=learn_gen_ai&tagid=ml-learn_gen_ai)**: Courses and documentation to exoplore the capabilities of generative AI.stabl
     + **[Hugging Face — NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)**: Tutorials and documentation on using transformers, fine-tuning pre-trained models, tokenizers, NLP tasks, the datasets library, and more.
@@ -17,6 +17,7 @@
 
 * Generative AI
     + **[Alejando AO — Create AI Applications (YouTube playlist)](https://youtube.com/playlist?list=PLMVV8yyL2GN_n41v1ESBvDHwMbYYhlAh1&si=JUi4WvMHtBYd6zPF)**: Thorough tutorials walking through creating applications with Python and JavaScript, LangChain, and large language models (LLMs).
+    + **[AWS — PartyRock](https://partyrock.aws/)**: Hands-on, code-free app builder that allows users to experiment with prompt engineering techniques, review generated responses, and develop intuition for generative AI while creating and exploring fun apps.
     + **[IBM — AI Fundamentals (YouTube playlist)](https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF)**: Medium-length YouTube lessons explaining and illustrating AI concepts such as generative AI models, large langauge models (LLMs), machine learning, chatbots, and more.
     + **[IBM — Large Language Models and Chatbots (YouTube playlist)](https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c)**: Medium-length YouTube lessons explaining and illustrating large language models, prompt tuning, open-source models, chatbots, and more.
     + **[IBM — Understanding AI Models (YouTube playlist)](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0)**: Medium-length YouTube lessons explaining and illustrating large language models, neural networks, natural language processing, supervised and unsupervised learning,, and more.
